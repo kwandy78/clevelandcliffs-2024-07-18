@@ -1,6 +1,6 @@
 # GitHub for Developers
 
-- Class Date: july 18 - 18, 2024[D[D[D[D[D[8[C[C[C[C[C[C[D[D[D[D[D[9[C[C[C[C[C[C
+- Class Date: july 18 - 18, 2024
 - Facilitator: @pagelsr
 
 ## Class Resources
